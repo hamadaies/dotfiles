@@ -11,3 +11,9 @@ opt.splitkeep = "screen"
 -- opt.shiftwidth = 4
 -- opt.softtabstop = 1
 opt.expandtab = true
+
+opt.number = true
+opt.numberwidth = 2
+opt.mouse = "a"
+opt.smartindent = true
+opt.cursorlineopt = "both" -- to enable cursorline!
